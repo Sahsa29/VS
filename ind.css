@@ -1,0 +1,90 @@
+body{
+	margin:0 auto;
+	max-width: 1000px;
+}
+.name{
+ display: flex;
+ justify-content: space-between;
+}
+.red{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+.blue{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+
+.cufra{
+	display: flex;
+   justify-content: space-between;
+}
+.gren{
+	background-color: #00FF00;
+	width: 800px;
+	height:100px;
+}
+.cufra h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 35px;
+	margin-left: 35px;
+}
+.wtnjr{
+	display: flex;
+	justify-content: flex-end;
+}
+.orange{
+	background-color:orange;
+	width: 100px;
+	height: 100px;
+}
+h2{
+	margin-right: 350px;
+}
+
+
+
+.father{
+	display: flex;
+	justify-content: space-between;
+}
+.blue11{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+.red11{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+.orange11{
+	background-color:orange;
+	width: 100px;
+	height: 100px;
+}
+
+
+.blue1{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+.orange1{
+	background-color:orange;
+	width: 100px;
+	height: 100px;
+  margin-top:100px;
+}
+
+
+.orange2{
+ margin-top:200px;
+	background-color:orange;
+	width: 100px;
+	height: 100px;
+}
